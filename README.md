@@ -16,7 +16,7 @@ devtools::install_github("jamesmartherus/nhldata")
 
 # Acknowlegments
 
-Skater, Goalie, and Team data were compiled by Emmanuel Perry at [Corsica Hockey](http://corsica.hockey).
+Skater, Goalie, and Team data were compiled by Emmanuel Perry at [Corsica Hockey](http://corsica.hockey). Support Corsica Hockey [here](https://www.patreon.com/corsica/creators?vanity=corsica)
 
-Game data were compiled by [Natural Stat Trick](http://naturalstattrick.com)
+Game data were compiled by [Natural Stat Trick](http://naturalstattrick.com). Support Natural Stat Trick [here](https://www.patreon.com/naturalstattrick).
 
