@@ -1,6 +1,6 @@
 # nhldata
 
-This packages contains three datasets provided by [Corsica Hockey]{http://corsica.hockey} and [Natural Stat Trick]{http://naturalstattrick.com}:
+This packages contains three datasets provided by [Corsica Hockey](http://corsica.hockey) and [Natural Stat Trick](http://naturalstattrick.com):
 
 - `skaters`: For each season from 2007-2008 to 2018-2019, skaters statistics for all NHL players with at least 50 minutes of TOI (Time on Ice). 
 
