@@ -27,7 +27,7 @@
 \url{http://corsica.hockey/goalie-stats/}
 }
 \usage{
-goalies
+data(goalies)
 }
 \description{
 A dataset containing season-level statistics for NHL goalies for all

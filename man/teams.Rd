@@ -38,7 +38,7 @@
 \url{http://corsica.hockey/team-stats/}
 }
 \usage{
-teams
+data(teams)
 }
 \description{
 A dataset containing season-level statistics for NHL teams for all

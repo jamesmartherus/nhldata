@@ -59,7 +59,7 @@
 \url{http://corsica.hockey/skater-stats/}
 }
 \usage{
-skaters
+data(skaters)
 }
 \description{
 A dataset containing season-level statistics for NHL players for all
