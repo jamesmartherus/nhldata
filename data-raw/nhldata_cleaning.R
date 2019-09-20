@@ -40,8 +40,8 @@ names(teams) <- gsub("%","_pct",names(teams))
 names(teams) <- gsub("[+]/-","_plumin",names(teams))
 names(teams) <- gsub("/","_",names(teams))
 
-save(goalies, file="data/goalies.rda")
-save(skaters, file="data/skaters.rda")
-save(teams, file="data/teams.rda")
+save(goalies, file="data/goalies.rda", compress="xz")
+save(skaters, file="data/skaters.rda", compress="xz")
+save(teams, file="data/teams.rda", compress="xz")
 
 
