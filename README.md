@@ -2,7 +2,7 @@
   [![Travis build status](https://travis-ci.org/jamesmartherus/nhldata.svg?branch=master)](https://travis-ci.org/jamesmartherus/nhldata)
   <!-- badges: end -->
 
-# nhldata
+# `nhldata`: Easy Access to Basic NHL Data <img src="man/figures/logo.png" align="right" width=120 />
 
 This packages contains three datasets provided by [Corsica Hockey](http://corsica.hockey) and [Natural Stat Trick](http://naturalstattrick.com):
 
