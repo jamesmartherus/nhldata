@@ -3,6 +3,11 @@
 #' A dataset containing season-level statistics for NHL teams for all
 #' game states (5v5, PP, PK). Includes regular season.
 #'
+#'
+#' @docType data
+#'
+#' @usage data(teams)
+#'
 #' @format A data frame with 362 rows and 28 variables:
 #' \describe{
 #'   \item{team}{Team name}
@@ -33,5 +38,8 @@
 #'   \item{sv_pct}{Save percentage}
 #'   \item{pdo}{Just Win Baby}
 #' }
+#' 
+#' @keywords datasets
+#' 
 #' @source \url{http://corsica.hockey/team-stats/}
 "teams"

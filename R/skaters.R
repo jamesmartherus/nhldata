@@ -3,6 +3,10 @@
 #' A dataset containing season-level statistics for NHL players for all
 #' game states (5v5, PP, PK). Includes regular season and playoffs.
 #'
+#' @docType data
+#'
+#' @usage data(skaters)
+#'
 #' @format A data frame with 9402 rows and 48 variables:
 #' \describe{
 #'   \item{player}{Player name}
@@ -54,5 +58,8 @@
 #'   \item{toi_pct_qoc}{Percentage of team's total time on ice played by player, weighted by quality of opponents}
 #'   \item{cf_pct_qoc}{Corsi for percentage weighted by quality of player's opponents}
 #' }
+#' 
+#' @keywords datasets
+#' 
 #' @source \url{http://corsica.hockey/skater-stats/}
 "skaters"

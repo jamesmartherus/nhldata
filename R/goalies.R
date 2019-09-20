@@ -3,6 +3,10 @@
 #' A dataset containing season-level statistics for NHL goalies for all
 #' game states (5v5, PP, PK). Includes regular season and playoffs.
 #'
+#' @docType data
+#'
+#' @usage data(goalies)
+#'
 #' @format A data frame with 856 rows and 16 variables:
 #' \describe{
 #'   \item{player}{Player name}
@@ -22,5 +26,8 @@
 #'   \item{hdsv_pct}{High danger save percentage}
 #'   \item{gsaa}{Goals saved above average}
 #' }
+#' 
+#' @keywords datasets
+#' 
 #' @source \url{http://corsica.hockey/goalie-stats/}
 "goalies"
