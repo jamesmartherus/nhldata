@@ -1,3 +1,7 @@
+  <!-- badges: start -->
+  [![Travis build status](https://travis-ci.org/jamesmartherus/nhldata.svg?branch=master)](https://travis-ci.org/jamesmartherus/nhldata)
+  <!-- badges: end -->
+
 # nhldata
 
 This packages contains three datasets provided by [Corsica Hockey](http://corsica.hockey) and [Natural Stat Trick](http://naturalstattrick.com):

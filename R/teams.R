@@ -18,6 +18,7 @@
 #'   \item{ca}{Corsi against}
 #'   \item{c_plumin}{Corsi plus/minus (cf-ca)}
 #'   \item{cf_60}{Corsi for per 60 minutes on the ice}
+#'   \item{cf_pct}{Corsi for as a percentage of total corsi}
 #'   \item{ca_60}{Corsi against per 60 minutes on the ice}
 #'   \item{gf}{Goals scored for a player's team}
 #'   \item{ga}{Goals scored against player's team}
