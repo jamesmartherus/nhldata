@@ -3,7 +3,7 @@ Title: Easy Access to Basic NHL Data
 Version: 0.1.0
 Authors@R: person("James", "Martherus", email = "james@martherus.com",
                   role = c("aut", "cre"))
-Description: Includes a variety of functions for tasks I perform often. 
+Description: Includes several datasets of NHL statistics including skater, goalie, and team statistics by season.
 Depends: R (>= 3.5.0)
 License: MIT
 LazyData: true
