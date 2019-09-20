@@ -1,6 +1,6 @@
 Package: nhldata
 Title: Easy Access to Basic NHL Data 
-Version: 0.1
+Version: 0.1.0
 Authors@R: person("James", "Martherus", email = "james@martherus.com",
                   role = c("aut", "cre"))
 Description: Includes a variety of functions for tasks I perform often. 
@@ -8,3 +8,4 @@ Depends: R (>= 3.1.0)
 License: MIT
 LazyData: true
 RoxygenNote: 6.1.1
+Encoding: UTF-8
