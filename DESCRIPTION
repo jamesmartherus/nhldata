@@ -4,7 +4,7 @@ Version: 0.1.0
 Authors@R: person("James", "Martherus", email = "james@martherus.com",
                   role = c("aut", "cre"))
 Description: Includes a variety of functions for tasks I perform often. 
-Depends: R (>= 3.1.0)
+Depends: R (>= 3.5.0)
 License: MIT
 LazyData: true
 RoxygenNote: 6.1.1
